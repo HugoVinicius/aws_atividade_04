@@ -1,0 +1,14 @@
+D:\Pessoal\Pós-gradução\Materias\AWS\exercicio\Exercício Aula 04\Atividade2\Pedido.API\obj\Debug\netcoreapp2.2\Pedido.API.csprojAssemblyReference.cache
+D:\Pessoal\Pós-gradução\Materias\AWS\exercicio\Exercício Aula 04\Atividade2\Pedido.API\obj\Debug\netcoreapp2.2\Pedido.API.csproj.CoreCompileInputs.cache
+D:\Pessoal\Pós-gradução\Materias\AWS\exercicio\Exercício Aula 04\Atividade2\Pedido.API\obj\Debug\netcoreapp2.2\Pedido.API.RazorAssemblyInfo.cache
+D:\Pessoal\Pós-gradução\Materias\AWS\exercicio\Exercício Aula 04\Atividade2\Pedido.API\obj\Debug\netcoreapp2.2\Pedido.API.RazorAssemblyInfo.cs
+D:\Pessoal\Pós-gradução\Materias\AWS\exercicio\Exercício Aula 04\Atividade2\Pedido.API\obj\Debug\netcoreapp2.2\Pedido.API.AssemblyInfoInputs.cache
+D:\Pessoal\Pós-gradução\Materias\AWS\exercicio\Exercício Aula 04\Atividade2\Pedido.API\obj\Debug\netcoreapp2.2\Pedido.API.AssemblyInfo.cs
+D:\Pessoal\Pós-gradução\Materias\AWS\exercicio\Exercício Aula 04\Atividade2\Pedido.API\bin\Debug\netcoreapp2.2\Pedido.API.deps.json
+D:\Pessoal\Pós-gradução\Materias\AWS\exercicio\Exercício Aula 04\Atividade2\Pedido.API\bin\Debug\netcoreapp2.2\Pedido.API.runtimeconfig.json
+D:\Pessoal\Pós-gradução\Materias\AWS\exercicio\Exercício Aula 04\Atividade2\Pedido.API\bin\Debug\netcoreapp2.2\Pedido.API.runtimeconfig.dev.json
+D:\Pessoal\Pós-gradução\Materias\AWS\exercicio\Exercício Aula 04\Atividade2\Pedido.API\bin\Debug\netcoreapp2.2\Pedido.API.dll
+D:\Pessoal\Pós-gradução\Materias\AWS\exercicio\Exercício Aula 04\Atividade2\Pedido.API\bin\Debug\netcoreapp2.2\Pedido.API.pdb
+D:\Pessoal\Pós-gradução\Materias\AWS\exercicio\Exercício Aula 04\Atividade2\Pedido.API\obj\Debug\netcoreapp2.2\Pedido.API.RazorTargetAssemblyInfo.cache
+D:\Pessoal\Pós-gradução\Materias\AWS\exercicio\Exercício Aula 04\Atividade2\Pedido.API\obj\Debug\netcoreapp2.2\Pedido.API.dll
+D:\Pessoal\Pós-gradução\Materias\AWS\exercicio\Exercício Aula 04\Atividade2\Pedido.API\obj\Debug\netcoreapp2.2\Pedido.API.pdb

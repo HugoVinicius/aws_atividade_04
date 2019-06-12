@@ -1,0 +1,14 @@
+D:\Pessoal\Pós-gradução\Materias\AWS\exercicio\Exercício Aula 04\Gateway\bin\Debug\netcoreapp2.2\Gateway.deps.json
+D:\Pessoal\Pós-gradução\Materias\AWS\exercicio\Exercício Aula 04\Gateway\bin\Debug\netcoreapp2.2\Gateway.runtimeconfig.json
+D:\Pessoal\Pós-gradução\Materias\AWS\exercicio\Exercício Aula 04\Gateway\bin\Debug\netcoreapp2.2\Gateway.runtimeconfig.dev.json
+D:\Pessoal\Pós-gradução\Materias\AWS\exercicio\Exercício Aula 04\Gateway\bin\Debug\netcoreapp2.2\Gateway.dll
+D:\Pessoal\Pós-gradução\Materias\AWS\exercicio\Exercício Aula 04\Gateway\bin\Debug\netcoreapp2.2\Gateway.pdb
+D:\Pessoal\Pós-gradução\Materias\AWS\exercicio\Exercício Aula 04\Gateway\obj\Debug\netcoreapp2.2\Gateway.csprojAssemblyReference.cache
+D:\Pessoal\Pós-gradução\Materias\AWS\exercicio\Exercício Aula 04\Gateway\obj\Debug\netcoreapp2.2\Gateway.csproj.CoreCompileInputs.cache
+D:\Pessoal\Pós-gradução\Materias\AWS\exercicio\Exercício Aula 04\Gateway\obj\Debug\netcoreapp2.2\Gateway.RazorAssemblyInfo.cache
+D:\Pessoal\Pós-gradução\Materias\AWS\exercicio\Exercício Aula 04\Gateway\obj\Debug\netcoreapp2.2\Gateway.RazorAssemblyInfo.cs
+D:\Pessoal\Pós-gradução\Materias\AWS\exercicio\Exercício Aula 04\Gateway\obj\Debug\netcoreapp2.2\Gateway.AssemblyInfoInputs.cache
+D:\Pessoal\Pós-gradução\Materias\AWS\exercicio\Exercício Aula 04\Gateway\obj\Debug\netcoreapp2.2\Gateway.AssemblyInfo.cs
+D:\Pessoal\Pós-gradução\Materias\AWS\exercicio\Exercício Aula 04\Gateway\obj\Debug\netcoreapp2.2\Gateway.RazorTargetAssemblyInfo.cache
+D:\Pessoal\Pós-gradução\Materias\AWS\exercicio\Exercício Aula 04\Gateway\obj\Debug\netcoreapp2.2\Gateway.dll
+D:\Pessoal\Pós-gradução\Materias\AWS\exercicio\Exercício Aula 04\Gateway\obj\Debug\netcoreapp2.2\Gateway.pdb

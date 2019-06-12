@@ -1,0 +1,14 @@
+D:\Pessoal\Pós-gradução\Materias\AWS\exercicio\Exercício Aula 04\Catalogo.API\bin\Debug\netcoreapp2.2\Catalogo.API.deps.json
+D:\Pessoal\Pós-gradução\Materias\AWS\exercicio\Exercício Aula 04\Catalogo.API\bin\Debug\netcoreapp2.2\Catalogo.API.runtimeconfig.json
+D:\Pessoal\Pós-gradução\Materias\AWS\exercicio\Exercício Aula 04\Catalogo.API\bin\Debug\netcoreapp2.2\Catalogo.API.runtimeconfig.dev.json
+D:\Pessoal\Pós-gradução\Materias\AWS\exercicio\Exercício Aula 04\Catalogo.API\bin\Debug\netcoreapp2.2\Catalogo.API.dll
+D:\Pessoal\Pós-gradução\Materias\AWS\exercicio\Exercício Aula 04\Catalogo.API\bin\Debug\netcoreapp2.2\Catalogo.API.pdb
+D:\Pessoal\Pós-gradução\Materias\AWS\exercicio\Exercício Aula 04\Catalogo.API\obj\Debug\netcoreapp2.2\Catalogo.API.csprojAssemblyReference.cache
+D:\Pessoal\Pós-gradução\Materias\AWS\exercicio\Exercício Aula 04\Catalogo.API\obj\Debug\netcoreapp2.2\Catalogo.API.csproj.CoreCompileInputs.cache
+D:\Pessoal\Pós-gradução\Materias\AWS\exercicio\Exercício Aula 04\Catalogo.API\obj\Debug\netcoreapp2.2\Catalogo.API.RazorAssemblyInfo.cache
+D:\Pessoal\Pós-gradução\Materias\AWS\exercicio\Exercício Aula 04\Catalogo.API\obj\Debug\netcoreapp2.2\Catalogo.API.RazorAssemblyInfo.cs
+D:\Pessoal\Pós-gradução\Materias\AWS\exercicio\Exercício Aula 04\Catalogo.API\obj\Debug\netcoreapp2.2\Catalogo.API.AssemblyInfoInputs.cache
+D:\Pessoal\Pós-gradução\Materias\AWS\exercicio\Exercício Aula 04\Catalogo.API\obj\Debug\netcoreapp2.2\Catalogo.API.AssemblyInfo.cs
+D:\Pessoal\Pós-gradução\Materias\AWS\exercicio\Exercício Aula 04\Catalogo.API\obj\Debug\netcoreapp2.2\Catalogo.API.RazorTargetAssemblyInfo.cache
+D:\Pessoal\Pós-gradução\Materias\AWS\exercicio\Exercício Aula 04\Catalogo.API\obj\Debug\netcoreapp2.2\Catalogo.API.dll
+D:\Pessoal\Pós-gradução\Materias\AWS\exercicio\Exercício Aula 04\Catalogo.API\obj\Debug\netcoreapp2.2\Catalogo.API.pdb
