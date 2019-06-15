@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -7,17 +7,15 @@ using Pedido.API.Models;
 
 namespace Pedido.API.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/Pedido")]
     [ApiController]
-    public class ValuesController : ControllerBase
-    {        
+    public class PedidoControllers
+    {
         // GET api/values
         [HttpGet]
-        public ActionResult<PedidoItem> Get()
+        public ActionResult<string> Get()
         {
-            var ped = new PedidoItem();
-        
-            return ped;
+            return "Retornar a lista de pedido";
         }
 
         // GET api/values/5

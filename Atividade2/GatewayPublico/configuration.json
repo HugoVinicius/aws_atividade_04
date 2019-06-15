@@ -1,12 +1,12 @@
 {
     "ReRoutes": [
       {
-        "DownstreamPathTemplate": "/",
+        "DownstreamPathTemplate": "/api/pedido/",
         "DownstreamScheme": "http",
         "DownstreamHostAndPorts": [
           {
             "Host": "127.0.0.1",
-            "Port": 7000
+            "Port": 5000
           }
         ],
         "UpstreamPathTemplate": "/pedido/",
@@ -18,38 +18,38 @@
         "DownstreamHostAndPorts": [
           {
             "Host": "127.0.0.1",
-            "Port": 7000
+            "Port": 5000
           }
         ],
-        "UpstreamPathTemplate": "/pedido/{everything}",
+        "UpstreamPathTemplate": "/api/pedido/{everything}",
         "UpstreamHttpMethod": [ "Get", "Options" ]
       },
       {
-        "DownstreamPathTemplate": "/",
+        "DownstreamPathTemplate": "/api/carrinho",
         "DownstreamScheme": "http",
         "DownstreamHostAndPorts": [
           {
             "Host": "127.0.0.1",
-            "Port": 8000
+            "Port": 4000
           }
         ],
         "UpstreamPathTemplate": "/carrinho/",
         "UpstreamHttpMethod": [ "Get", "Options" ]
       },
       {
-        "DownstreamPathTemplate": "/{everything}",
+        "DownstreamPathTemplate": "/api/carrinho/{everything}",
         "DownstreamScheme": "http",
         "DownstreamHostAndPorts": [
           {
             "Host": "127.0.0.1",
-            "Port": 8000
+            "Port": 4000
           }
         ],
         "UpstreamPathTemplate": "/carrinho/{everything}",
         "UpstreamHttpMethod": [ "Get", "Options" ]
       },
       {
-        "DownstreamPathTemplate": "/",
+        "DownstreamPathTemplate": "/produto",
         "DownstreamScheme": "http",
         "DownstreamHostAndPorts": [
           {

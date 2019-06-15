@@ -1,27 +1,51 @@
 {
     "ReRoutes": [
       {
-        "DownstreamPathTemplate": "/",
+        "DownstreamPathTemplate": "/api/pedido/",
         "DownstreamScheme": "http",
         "DownstreamHostAndPorts": [
           {
             "Host": "127.0.0.1",
-            "Port": 7000
+            "Port": 5000
           }
         ],
         "UpstreamPathTemplate": "/pedido/",
         "UpstreamHttpMethod": [ "Get", "Post", "Put", "Delete", "Options" ]
       },
       {
-        "DownstreamPathTemplate": "/{everything}",
+        "DownstreamPathTemplate": "/api/pedido/{everything}",
         "DownstreamScheme": "http",
         "DownstreamHostAndPorts": [
           {
             "Host": "127.0.0.1",
-            "Port": 7000
+            "Port": 5000
           }
         ],
         "UpstreamPathTemplate": "/pedido/{everything}",
+        "UpstreamHttpMethod": [ "Get", "Post", "Put", "Delete", "Options" ]
+      },
+      {
+        "DownstreamPathTemplate": "/api/carrinho",
+        "DownstreamScheme": "http",
+        "DownstreamHostAndPorts": [
+          {
+            "Host": "127.0.0.1",
+            "Port": 4000
+          }
+        ],
+        "UpstreamPathTemplate": "/carrinho/",
+        "UpstreamHttpMethod": [ "Get", "Post", "Put", "Delete", "Options" ]
+      },
+      {
+        "DownstreamPathTemplate": "/api/carrinho/{everything}",
+        "DownstreamScheme": "http",
+        "DownstreamHostAndPorts": [
+          {
+            "Host": "127.0.0.1",
+            "Port": 4000
+          }
+        ],
+        "UpstreamPathTemplate": "/carrinho/{everything}",
         "UpstreamHttpMethod": [ "Get", "Post", "Put", "Delete", "Options" ]
       },
       {
@@ -30,10 +54,10 @@
         "DownstreamHostAndPorts": [
           {
             "Host": "127.0.0.1",
-            "Port": 8000
+            "Port": 3000
           }
         ],
-        "UpstreamPathTemplate": "/catalogo/",
+        "UpstreamPathTemplate": "/produto/",
         "UpstreamHttpMethod": [ "Get", "Post", "Put", "Delete", "Options" ]
       },
       {
@@ -42,10 +66,10 @@
         "DownstreamHostAndPorts": [
           {
             "Host": "127.0.0.1",
-            "Port": 8000
+            "Port": 3000
           }
         ],
-        "UpstreamPathTemplate": "/catalogo/{everything}",
+        "UpstreamPathTemplate": "/produto/{everything}",
         "UpstreamHttpMethod": [ "Get", "Post", "Put", "Delete", "Options" ]
       }
     ],

@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Carrinho.API.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/carrinho")]
     [ApiController]
     public class ValuesController : ControllerBase
     {
@@ -26,8 +26,9 @@ namespace Carrinho.API.Controllers
 
         // POST api/values
         [HttpPost]
-        public void Post([FromBody] string value)
+        public string Post([FromForm] string value)
         {
+            return "Produto incluido com sucesso";              
         }
 
         // PUT api/values/5
